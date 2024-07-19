@@ -66,7 +66,7 @@
 
 
 <p align="left">
-<a href="mailto:yasserkalkhi@gmail.com" target="blank">Email:</a>
+Email: yasserkalkhi@gmail.com
 </p>
 <br/>  
 
