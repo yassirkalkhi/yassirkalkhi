@@ -63,6 +63,11 @@
 
 <br/>  
 
+
+
+<p align="left">
+<a href="mailto:yasserkalkhi@gmail.com" target="blank">Email:</a>
+</p>
 <br/>  
 
 <br/>  
