@@ -33,13 +33,13 @@
 
 ### Projects
 
-- 🚀 Check out my latest projects on [GitHub](https://github.com/yourusername).
+- 🚀 Check out my latest projects on [GitHub](https://github.com/yassirkalkhi).
 
 ### Get in Touch
 
-- 📫 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- 📫 Email: yasserkalkhi@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/yassirkalkhi](https://linkedin.com/in/yassir-kalkhi-83a8382b7)
 
 ---
 
-⭐️ From [Your Name](https://github.com/yourusername)
+⭐️ From [Yassir](https://github.com/yassirkalkhi)
