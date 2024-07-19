@@ -58,9 +58,7 @@
 <a href="https://www.linkedin.com/in/yassir-kalkhi-83a8382b7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassirkalkhi" height="30" width="40" /></a>
 <a href="https://fb.com/yassir.safiot.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yassir.safiot.9" height="30" width="40" /></a>
 <a href="https://instagram.com/yassir_klk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yassir_klk" height="30" width="40" /></a>
-<a href="https://github.com/yassirkalkhi" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a></p>
+</p>
   
 
 <br/>  
