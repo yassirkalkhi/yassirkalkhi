@@ -1,9 +1,6 @@
 ### <div align="center">Hi there, I'm Yassir  kalkhi  👨‍💻 </div>  
   
 
-- 👋 Hi, I'm Yassir,
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
