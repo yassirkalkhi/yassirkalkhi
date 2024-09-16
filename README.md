@@ -1,9 +1,7 @@
 ### <div align="center">Hi there, I'm Yassir  kalkhi  👨‍💻 </div>  
   
 
-- 👋 Hi, I'm Yassir, a dedicated web development student passionate about crafting clean and efficient digital solutions. Currently mastering Web development technologies like HTML, CSS, JavaScript, PHP, MySql , and more. Eager to contribute to innovative projects and grow in the dynamic field of web development⚡  
-  
-
+- 👋 Hi, I'm Yassir,
 <br/>  
 
 
